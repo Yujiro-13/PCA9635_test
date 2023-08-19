@@ -1,4 +1,4 @@
 # PCA9635_test
-### LEDdriver PCA9635 をテストする
+### LEDdriver PCA9635 のテスト用
 ## 環境
-### ESP-IDF
+### ESP-IDF ver1.6.4
