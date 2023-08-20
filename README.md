@@ -4,4 +4,4 @@
 ## 環境
 ### ESP-IDF ver1.6.4
 
-### ESP-IDFの_Show example_から_i2c self test_のプロジェクトを作成し、main.cファイルを書き換える
+#### ESP-IDFの *Show example* から *i2c self test* のプロジェクトを作成し、main.cファイルを書き換える
